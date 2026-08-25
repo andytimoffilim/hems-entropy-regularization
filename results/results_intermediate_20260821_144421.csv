@@ -1,0 +1,2 @@
+dataset,regime,method,seed,epochs,val_acc,val_f1,H_hat_M,K_hat_M_eta_0.05,K_hat_M_eta_0.10,tau_hat_M_0.001,tau_hat_M_0.005,tau_hat_M_0.01,R_hat,R_hat_class_mean,effective_rank,mean_pairwise_sim,std_pairwise_sim,mean_within_class_dispersion,mean_inter_class_distance,inter_intra_ratio
+cifar10,balanced_100,baseline,42,200,0.9406,0.9407851735545272,10.714351655879865,42748,40498,0.9999999999999999,0.9999999999999999,0.9999999999999999,0.01108611,0.056511033,8.988792614487974,4.5283164e-06,0.33361927,0.23009057,1.4157697,6.153097
